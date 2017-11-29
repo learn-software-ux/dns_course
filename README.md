@@ -17,7 +17,7 @@ hi
 
 
 
-#### What You'll Learn:   -  
+### What You'll Learn:   -  
 _ Domain Name Registration  
 _ DNS Zone File Set-up  
 _ URL Stucture & Syntax  
